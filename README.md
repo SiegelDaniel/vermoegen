@@ -1,0 +1,2 @@
+# vermoegen
+fastAPI wealth tracker
